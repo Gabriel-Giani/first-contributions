@@ -1769,6 +1769,7 @@ LadegbayeStella)
 - [John Reg] (https://github.com/jao-johnreginald)
 - [samar gill] (https://github.com/samar-gill)
 - [gamelia programmer] (https://github.com/gameliaprogrammer)
+- [Gabriel Giani] (https://github.com/Gabriel-Giani)
 - [Nargotra]
 - [jazdal](https://github.com/jazdal)
 - [perceptionWave] (https://github.com/perceptionWave)
