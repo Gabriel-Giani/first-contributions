@@ -1,4 +1,5 @@
 happy# Contributors
+- [Dallon Jarman](https://github.com/dallonjarman)
 - [Shariar Islam](https://github.com/shariar-ms)
 - [Renna Carver](https://github.com/rennacarver)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
@@ -15,6 +16,7 @@ happy# Contributors
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
 - [test-new-user]
+- [Tyler Austin]
 - [Rocio Gutierrez](https://github.com/rociogutz)
 - [Dacidev](https://github.com/dacidev)
 - [Hein Htut Zaw] (https://github.com/HeinHtutZaw19)
